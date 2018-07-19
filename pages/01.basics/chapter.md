@@ -29,5 +29,4 @@ def render: String = {
     if (i < c) s append delimiter     // skip the final delimiter
   }
   s.append(terminator).toString
-}
----
+}```
