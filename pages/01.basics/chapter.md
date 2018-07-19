@@ -12,7 +12,7 @@ child_type: docs
 
 Discover the **basic** principles
 
-```scala
+```js
 grunt.initConfig({
   assemble: {
     options: {
