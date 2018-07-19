@@ -11,6 +11,7 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
+<pre><code class="language-css">
 ```scala
 /**
     * Performance-oriented implementation using Java's StringBuilder with a precalculated initial size large enough
@@ -30,3 +31,4 @@ def render: String = {
   }
   s.append(terminator).toString
 }```
+</code></pre>
