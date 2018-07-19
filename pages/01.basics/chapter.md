@@ -11,9 +11,7 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
-
-<pre>
-<code>
+'''scala
 grunt.initConfig({
   assemble: {
     options: {
@@ -32,5 +30,4 @@ grunt.initConfig({
     }
   }
 };
-</code>
-</pre>
+---
