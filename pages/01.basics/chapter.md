@@ -12,7 +12,7 @@ child_type: docs
 
 Discover the **basic** principles
 
-```js
+<code>
 grunt.initConfig({
   assemble: {
     options: {
@@ -31,4 +31,4 @@ grunt.initConfig({
     }
   }
 };
-```
+</code>
