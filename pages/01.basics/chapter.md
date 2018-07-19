@@ -11,7 +11,7 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
-<pre><code class="language-scala">
+<pre><code class="language-java">
 ```scala
 /**
     * Performance-oriented implementation using Java's StringBuilder with a precalculated initial size large enough
