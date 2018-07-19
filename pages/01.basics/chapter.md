@@ -12,6 +12,7 @@ child_type: docs
 
 Discover the **basic** principles
 
+<pre>
 <code>
 grunt.initConfig({
   assemble: {
@@ -32,3 +33,4 @@ grunt.initConfig({
   }
 };
 </code>
+</pre>
