@@ -1,2 +1,3 @@
 # elysian-console-docs
-Documentation Site for Elysian Console
+Nothing ready to see here, pre-alpha.
+There be dragons here, run!
