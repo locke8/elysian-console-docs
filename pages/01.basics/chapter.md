@@ -33,7 +33,7 @@ def render: String = {
 </code></pre>
 
 
-~~~scala
+~~~java
 /**
     * Performance-oriented implementation using Java's StringBuilder with a precalculated initial size large enough
     * to avoid any additional allocations that can otherwise result from using append() during initialization.
