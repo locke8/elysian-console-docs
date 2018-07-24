@@ -11,7 +11,6 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
-<pre><code class="lang-csharp">
 ~~~scala
 /**
     * Performance-oriented implementation using Java's StringBuilder with a precalculated initial size large enough
@@ -30,5 +29,5 @@ def render: String = {
     if (i < c) s append delimiter     // skip the final delimiter
   }
   s.append(terminator).toString
-}~~~
-</code></pre>
+}
+~~~
