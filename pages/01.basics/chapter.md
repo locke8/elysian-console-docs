@@ -11,8 +11,7 @@ child_type: docs
 # Basics
 
 Discover the **basic** principles
-
-~~~lang-scala
+<pre><code class="lang-scala">
 /**
     * Performance-oriented implementation using Java's StringBuilder with a precalculated initial size large enough
     * to avoid any additional allocations that can otherwise result from using append() during initialization.
@@ -31,4 +30,4 @@ def render: String = {
   }
   s.append(terminator).toString
 }
-~~~
+</code></pre>
