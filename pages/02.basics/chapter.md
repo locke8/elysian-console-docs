@@ -1,14 +1,14 @@
 ---
-title: Basics
+title: 'Console Basics'
 taxonomy:
     category:
         - docs
 child_type: docs
 ---
 
-### Chapter 1
+### Chapter 2
 
-# Basics
+# Console Basics
 
 Discover the **basic** principles
 <pre><code class="lang-java">
