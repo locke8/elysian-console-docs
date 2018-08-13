@@ -1,5 +1,5 @@
 ---
-title: 'Console Basics'
+title: 'Old Console Basics'
 taxonomy:
     category:
         - docs
