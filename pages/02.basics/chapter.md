@@ -6,9 +6,9 @@ taxonomy:
 child_type: docs
 ---
 
-### Chapter 2
+### Chapter 2rmv
 
-# Console Basics
+# Old Console Basics
 
 Discover the **basic** principles
 <pre><code class="lang-java">
