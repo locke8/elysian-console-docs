@@ -1,5 +1,5 @@
 ---
-title: 'Old Console Basics'
+title: 'Example Pages A'
 taxonomy:
     category:
         - docs
