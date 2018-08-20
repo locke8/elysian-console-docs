@@ -1,5 +1,5 @@
 ---
-title: 'Get The Console'
+title: 'Get the Console'
 taxonomy:
     category:
         - docs
