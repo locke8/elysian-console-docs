@@ -1,8 +1,7 @@
 ---
 title: 'Write to the Console'
 taxonomy:
-    category:
-        - docs
+    category: docs
 visible: true
 ---
 
