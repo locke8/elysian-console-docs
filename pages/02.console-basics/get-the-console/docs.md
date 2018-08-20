@@ -1,8 +1,7 @@
 ---
 title: 'Get the Console'
 taxonomy:
-    category:
-        - docs
+    category: docs
 visible: true
 ---
 
