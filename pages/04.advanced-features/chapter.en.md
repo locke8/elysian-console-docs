@@ -1,8 +1,8 @@
 ---
 title: 'Advanced Features'
 taxonomy:
-    category:
-        - docs
+    category: docs
+child_type: docs
 ---
 
 ### Chapter Number 4
