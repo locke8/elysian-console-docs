@@ -1,5 +1,6 @@
 ---
 title: 'Read from the Console'
+child_type: docs
 visible: true
 ---
 
