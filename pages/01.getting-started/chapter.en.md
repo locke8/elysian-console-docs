@@ -1,8 +1,8 @@
 ---
 title: 'Getting Started'
 taxonomy:
-    category:
-        - docs
+    category: docs
+child_type: docs
 ---
 
 ### Chapter 1
