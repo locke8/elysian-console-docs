@@ -2,7 +2,7 @@
 title: 'Write to the Console'
 taxonomy:
     category: docs
-visible: true
+child_type: docs
 ---
 
 Your page content goes here.
