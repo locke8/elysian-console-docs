@@ -1,8 +1,8 @@
 ---
 title: 'Console Basics'
 taxonomy:
-    category:
-        - docs
+    category: docs
+child_type: docs
 ---
 
 ### Chapter 2
