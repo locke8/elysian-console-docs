@@ -1,8 +1,8 @@
 ---
 title: 'Using The Screen'
 taxonomy:
-    category:
-        - docs
+    category: docs
+child_type: docs
 ---
 
 ### Chapter Number 5
